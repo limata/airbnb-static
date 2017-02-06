@@ -1,0 +1,18 @@
+#footer {
+  background: #333333;
+  padding: 35px 0 25px 0;
+  color: #CCCCCC;
+
+
+  p {
+    margin-top: 5px;
+  }
+
+
+  a {
+    color: #CCCCCC;
+    &:hover {
+      color: $green;
+    }
+  }
+}
